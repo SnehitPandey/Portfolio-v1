@@ -1,4 +1,19 @@
+p{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding: 7px;
+}
+
 h1{
     text-align: center;
-    
+    display: flex;
+    justify-content: center;
+}
+footer{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    height: 122px;
+    padding: 32px;  
 }
