@@ -1,1 +1,1 @@
-$("header").load("/Header.html")
+$("header").load("Header/header.html")
